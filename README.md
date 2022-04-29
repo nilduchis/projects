@@ -1,2 +1,2 @@
 # spring-boot-project
-Backend complementing for Angular project (clientes-app)
+Backend for Angular project (clientes-app)
